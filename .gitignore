@@ -49,8 +49,8 @@
 !/Examples/cmake/*
 !/Examples/CMakeLists.txt
 !/Examples/*.cpp
-!/Examples/external
-!/Examples/external/*
+
+
 
 # include gnu-make-crutch folder
 !/gnu-make-crutch
@@ -75,14 +75,9 @@
 /OpenXLSX/*
 # re-include specifically what is desired from OpenXLSX folder
 !/OpenXLSX/CMakeLists.txt
-!/OpenXLSX/external
-!/OpenXLSX/external/*
-!/OpenXLSX/headers
-!/OpenXLSX/headers/*
-!/OpenXLSX/OpenXLSXConfig.cmake
 !/OpenXLSX/OpenXLSX.hpp
-!/OpenXLSX/sources
-!/OpenXLSX/sources/*
+
+
 
 # include Scripts folder
 !/Scripts
